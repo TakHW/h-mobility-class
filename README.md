@@ -62,4 +62,4 @@
 
 
 최종 알고리즘
-![[Pasted image 20240726200831.png]]
+![Pasted image 20240726200831](https://github.com/user-attachments/assets/cfd73096-e038-42b7-9a0f-e01e3195b2ea)
